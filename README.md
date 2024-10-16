@@ -9,7 +9,7 @@ I'm Anastasiya Shydko, a student at Brigham Young University-Idaho interested in
 ## About Me
 
 - I'm currently learning Web Technologies 
-- My goals are to start my career as a Full Stack Web Developer
+- My goal is to start my career as a Full Stack Web Developer
 
 
 ## Technologies and Tools
