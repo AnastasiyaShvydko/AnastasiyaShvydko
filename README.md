@@ -21,8 +21,12 @@ I'm Anastasiya Shydko, a student at Brigham Young University-Idaho interested in
   Express.js,
   C#,
   Python,
+  ASP.NET Core ,
+  ASP.NET MVC,
+  Blazor,
   SQL,
-  MongoDB
+  MongoDB,
+  PostgreSQL
 **Skills**:
   Team Work. I excel at clearly articulating ideas and actively listening to others.
   Adaptability. I am flexible and open to change, which allows me to navigate challenges with ease.
