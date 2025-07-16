@@ -34,7 +34,7 @@ I'm Anastasiya Shydko, a student at Brigham Young University-Idaho interested in
   Time Management. I prioritize tasks effectively, balancing multiple responsibilities while meeting deadlines.
   
 ## Projects
-https://github.com/AnastasiyaShvydko/mirror_CSE325_team_project
+https://github.com/AnastasiyaShvydko/mirror_CSE325_team_project  
 https://github.com/AnastasiyaShvydko/WDD430_project
 ## Let's Connect!
 
