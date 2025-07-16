@@ -35,6 +35,7 @@ I'm Anastasiya Shydko, a student at Brigham Young University-Idaho interested in
   
 ## Projects
 https://github.com/AnastasiyaShvydko/mirror_CSE325_team_project
+https://github.com/AnastasiyaShvydko/WDD430_project
 ## Let's Connect!
 
 - Here is my [[LinkedIn](https://www.linkedin.com/in/anastasia-shvydko-3783112a7/)]
